@@ -1,6 +1,5 @@
-Git Tutorials By developera
-Git Tutorial By Developer B 
+Git Tutorials By Developer
 
-## Please susbcriibe to my channel
+## Please susbcribe to my channel
 
 ##changes to be commited
